@@ -41,7 +41,7 @@ main h2 {
 }
 
 .book {
-    border: 1px solid #ddd;
+    border: 1px solid #ffffff;
     border-radius: 5px;
     margin: 10px;
     padding: 10px;
@@ -57,7 +57,7 @@ main h2 {
 }
 
 footer {
-    background-color: #4CAF50;
+    background-color: #000000;
     color: white;
     text-align: center;
     padding: 10px;
